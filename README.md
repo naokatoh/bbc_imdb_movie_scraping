@@ -5,4 +5,4 @@ https://www.imdb.com/list/ls025871744/
 
 * `map.html` shows the birthplace of directors 
 * `bbc_movie_lang.csv` contains the dominant language data of each movie
-* `bbc_project_kato_language_2.ipynb` contains the finao
+* `bbc_project_kato_language_2.ipynb` contains the final
